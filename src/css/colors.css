@@ -1,6 +1,6 @@
-$ui-primary: hsla(215, 100%, 95%, 1); /* #E5F0FF */
-$ui-secondary: hsla(215, 75%, 95%, 1); /* #E9F1FC */
-$ui-tertiary: hsla(215, 50%, 90%, 1); /* #D9E3F2 */
+$ui-primary: hsla(60, 100%, 100%, 1); /* insert hex here */
+$ui-secondary: hsla(60, 75%, 95%, 1); /* insert hex here */
+$ui-tertiary: hsla(60, 50%, 90%, 1); /* insert hex here */
 
 $ui-modal-overlay: hsla(215, 100%, 65%, 0.9); /* 90% transparent version of motion-primary */
 
